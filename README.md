@@ -5,9 +5,6 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 
-> **Sistem deteksi radar modern menggunakan ESP32 dengan dual sensor (PIR + Ultrasonic) dan visualisasi GUI Python yang menakjubkan**
-
-![ESP32 Radar System Demo](https://via.placeholder.com/800x400/0a0a0a/00ff00?text=ESP32+RADAR+DETECTION+SYSTEM)
 
 ---
 
@@ -311,19 +308,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Adafruit** for excellent OLED libraries
 - **Python Community** for tkinter and serial libraries
 - **Open Source Community** for inspiration and support
-
----
-
-## 📸 Screenshots
-
-### 🖥️ **GUI Interface**
-![GUI Screenshot](https://via.placeholder.com/600x400/0a0a0a/00ff00?text=Radar+GUI+Interface)
-
-### 📱 **OLED Display**
-![OLED Display](https://via.placeholder.com/300x200/000000/ffffff?text=OLED+Status+Display)
-
-### 🔧 **Hardware Setup**
-![Hardware Setup](https://via.placeholder.com/500x400/f0f0f0/333333?text=Hardware+Wiring+Diagram)
 
 ---
 
